@@ -1,0 +1,31 @@
+.space-top {
+  margin-top: 40px;
+}
+
+.text-align-center {
+  text-align: center;
+}
+
+.text-white {
+  color: #fff;
+}
+
+.text-bold {
+  font-weight: bold;
+}
+
+.short-space-top {
+  margin-top: 10px;
+}
+
+.font-size-3rem {
+  font-size: 3rem;
+}
+
+.font-size-2rem {
+  font-size: 2rem;
+}
+
+.primary-color {
+  color: #74c69d;
+}
